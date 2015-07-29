@@ -3,7 +3,7 @@
 
 ##用法示例
 
-``javascript
+```javascript
 var loader = new imgLoader({
 	images: [
 		'http://img.chihaod.com/group1/M00/00/10/Cr6LiFVdk36AIMQAAAEK98Eyznc493.jpg',
@@ -46,4 +46,4 @@ var loader = new imgLoader({
 
 loader.init();
 
-``
+```
